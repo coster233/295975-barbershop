@@ -1,6 +1,7 @@
 # Учебный проект «Барбершоп»
 
 * Студент: [Артур Шах](https://up.htmlacademy.ru/htmlcss/20/user/295975).
+* Наставник: [Мария Кузнецова](https://htmlacademy.ru/profile/healdementia).
 
 ---
 
